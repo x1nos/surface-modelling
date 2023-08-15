@@ -8,4 +8,8 @@ FreeCAD and HP Elitebook 8470w
 
 * Includes a comparison with commercial 3d-cad modelling software.
 
-The project has been carried out in the course "Principles of repurposing electronics 521229A" at the University of Oulu. 
+* The project has been carried out in the course "Principles of repurposing electronics 521229A" at the University of Oulu. 
+
+* By opening the 521229A.pdf file you can read a more detailed description of the project.
+
+* The pdf file is in Finnish, but please use a DeepL translator, for example!
