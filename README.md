@@ -20,6 +20,6 @@ FreeCAD and HP Elitebook 8470w
 
 * The project has been carried out in the course "Principles of repurposing electronics 521229A" at the University of Oulu. 
 
-* By opening the 521229A.pdf file you can read a more detailed description of the project.
+* By opening the 521229A-V2.pdf file you can read a more detailed description of the project.
 
 * The pdf file is in Finnish, but please use a DeepL translator, for example!
