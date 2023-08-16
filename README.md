@@ -22,4 +22,6 @@ FreeCAD and HP Elitebook 8470w
 
 * By opening the 521229A-V2.pdf file you can read a more detailed description of the project.
 
+* https://github.com/x1nos/surface-modelling/blob/main/521229A-V2.pdf
+
 * The pdf file is in Finnish. If necessary, please use a DeepL translator or similar!
