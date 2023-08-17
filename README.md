@@ -24,6 +24,6 @@ FreeCAD and HP Elitebook 8470w
 
 * https://github.com/x1nos/surface-modelling/blob/main/521229A-V2.pdf
 
-* If you have problems opening a pdf file in Safari, please try Firefox or Chrome.
+* If you have problems opening a pdf file in Safari browser, please try Firefox or Chrome.
 
 * The pdf file is in Finnish. If necessary, please use a DeepL translator or similar!
